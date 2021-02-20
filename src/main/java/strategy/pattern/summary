@@ -1,0 +1,22 @@
+demo site-https://vins-udemy.s3.amazonaws.com/ds/strategy.html
+
+Main object is change the Behavioral at run time.
+changing the Behavioral of payment screen at run time by creating a object of payment option
+Based on the need we are changing payment options on the payment screen.
+
+Debate Time:
+
+	Factory VS Strategy:
+		
+		Factory - Its creation pattern  								Strategy - Behavioral pattern	
+------------------------------------------------------         		-----------------------------------------------
+		Factory is to create object. 									Strategy - Once we have a car , we updated engine
+		Initially we didn’t have any car so we created a car 
+		by giving specification/requirement to dealer
+						
+
+						
+Additional Material for study
+Strategy pattern:
+						
+https://www.vinsguru.com/selenium-webdriver-design-patterns-in-test-automation-strategy-pattern/

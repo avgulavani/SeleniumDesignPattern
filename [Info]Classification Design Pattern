@@ -1,0 +1,19 @@
+1. Creational Pattern (Object creation mechanism)
+
+	Factory
+
+2. Behavioral Pattern (Object with algorithms/behaviors)
+
+	Strategy
+
+	Template Method
+
+	Command
+
+	Execute Around Method
+
+3. Structural Pattern (how to assemble objects and classes into larger structures)
+
+	Decorator
+
+	Proxy

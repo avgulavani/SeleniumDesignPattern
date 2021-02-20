@@ -1,0 +1,11 @@
+Factory class is responsible to give object/instance based on parameter/requirement
+you are not supposed to create object of class . Ask factory and it will provide to you.
+	2.1 hence public access is removed for the classes. Only POC is GoogleFacotry class who is building object for you.
+Hides the complexity for object creation and once object is created use the common implementation
+
+
+Additional example for factory pattern-
+
+vinsguru/selenium-webdriver-factory-design-pattern-using-java-8-supplier/
+
+vinsguru/selenium-webdriver-design-patterns-in-test-automation-factory-pattern/
