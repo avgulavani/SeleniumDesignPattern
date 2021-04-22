@@ -38,8 +38,8 @@ public class PaymentScreenTest extends BaseTest {
 	//** Factory Pattern **
 	
 	public void paymentTest(String option, Map <String,String> paymentDetails ) { 
-		this.paymentScreen.goTo();
-		this.paymentScreen.getUserinformation().enterDetails("test1", "test2", "abc@abc.com");
+		//this.paymentScreen.goTo();
+		//this.paymentScreen.getUserinformation().enterDetails("test1", "test2", "abc@abc.com");
 		//** Strategy Patter **
 		//this.paymentScreen.setPaymentOption(paymentOption);	
 		

@@ -3,14 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="demand.HomePageTest">
+      <class name="template.ShoppingTest">
         <methods>
-          <include name="setUpDriver"/>
-          <include name="setHomePage"/>
+          <include name="getDriver"/>
           <include name="quitDriver"/>
-          <include name="homePageTest"/>
+          <include name="shoppingTest" invocation-numbers="1"/>
         </methods>
-      </class> <!-- demand.HomePageTest -->
+      </class> <!-- template.ShoppingTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

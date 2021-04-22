@@ -22,7 +22,9 @@ public class PaymentScreen {
 	
 	public void goTo() {
 		
-		this.driver.get("https://vins-udemy.s3.amazonaws.com/ds/strategy.html");
+		//https://-u.s3.amazonaws.com/ds/strategy.html
+		
+		this.driver.get("");
 	}
 
 	public UserInformation getUserinformation() {
